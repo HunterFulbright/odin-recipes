@@ -1,1 +1,2 @@
 # odin-recipes
+This project focuses on displaoying our knowledge of html by creating a website with multiple recipe web pages. Each page has an image, a paragraph description, an unordered list of ingredient, and an ordered list of steps.
